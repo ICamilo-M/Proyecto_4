@@ -1,0 +1,32 @@
+
+
+
+.contenedorrr{
+
+    background-image: url("../../Img/imgcr33.png");
+  
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    color: rgb(108, 15, 15);
+ 
+}
+
+.barrass{
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    position: relative;
+   
+    margin-top: 2%;
+   
+}
+
+.buutt{
+    background-color:rgb(252, 248, 0) ;
+    color: black;
+}

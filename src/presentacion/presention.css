@@ -1,0 +1,12 @@
+
+.homeBg{
+    justify-content: center;
+    position: absolute;
+    display: flex;
+    position: relative;
+}
+
+.videoig{
+  width: 50%;
+
+}
